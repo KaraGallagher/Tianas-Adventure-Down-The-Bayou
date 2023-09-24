@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\n\ Class\ Player\ -\ player\ in\ an\ adventure\ game,\ "Tiana's\ Adventure\ Down\ the\ Bayou."\n\n\ @author\ Kara\n\ @version\ 6\n
+comment1.params=
+comment1.target=Player()
+comment2.params=
+comment2.target=Room\ getCurrentRoom()
+comment3.params=room
+comment3.target=void\ setCurrentRoom(Room)
+comment4.params=direction
+comment4.target=java.lang.String\ walk(java.lang.String)
+comment5.params=command
+comment5.target=java.lang.String\ take(Command)
+comment6.params=command
+comment6.target=java.lang.String\ drop(Command)
+comment7.params=
+comment7.target=java.lang.String\ seeInventory()
+comment8.params=
+comment8.target=java.util.ArrayList\ getInventory()
+numComments=9

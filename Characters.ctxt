@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Characters
+comment0.text=\n\ Class\ Characters\ -\ characters\ in\ an\ adventure\ game\n\n\ This\ class\ describes\ the\ characters\ of\ the\ "Tiana's\ Adventure\ Down\ the\ Bayou"\ application.\ \n\ "Tiana's\ Adventure\ Down\ the\ Bayou"\ is\ a\ very\ simple,\ text\ based\ adventure\ game.\ \ \n\n\ @author\ Kara\n\ @version\ 6\n
+comment1.params=characterName\ species
+comment1.target=Characters(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getCharacterName()
+numComments=3

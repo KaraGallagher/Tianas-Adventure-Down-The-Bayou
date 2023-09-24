@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\n\ \ \n\ This\ class\ creates\ an\ instance\ of\ the\ GameEngine\ class,\ which\ is\ the\ main\ class\ of\n\ "Tiana's\ Adventure\ Down\ the\ Bayou."\ Users\ use\ the\ Game\ class\ to\ start\ the\ game.\n\ \n\ @author\ \ Kara\n\ @version\ 6\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\n\ Create\ the\ game\ and\ initialise\ its\ internal\ map.\n
+numComments=2
